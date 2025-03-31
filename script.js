@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         block ads
+// @name         peace of mind
 // @namespace    http://tampermonkey.net/
 // @version      2025-03-31
 // @description  peace of mind
